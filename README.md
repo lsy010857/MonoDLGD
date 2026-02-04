@@ -65,4 +65,3 @@ You can test the inference time on your own device:
 
 ## Acknowlegment
 This repo benefits from the excellent work [MonoDETR](https://github.com/ZrrSkywalker/MonoDETR), [MonoDGP](https://github.com/PuFanqi23/MonoDGP), [DINO](https://github.com/IDEA-Research/DINO) and [DN-DETR](https://github.com/IDEA-Research/DN-DETR)
->>>>>>> 3c1da11 (initial commit)
