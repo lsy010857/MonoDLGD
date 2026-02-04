@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# outputs / logs
+outputs/
+*.log
+
+# venv
+venv/
+.env
+
