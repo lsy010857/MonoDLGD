@@ -2,7 +2,7 @@ random_seed: 444
 
 dataset:
   type: &dataset_type 'KITTI'
-  root_dir: '/home/sandia/soyul/soyul/DEVIANT/data/waymo'
+  root_dir: ''
   train_split: 'train'
   test_split: 'val'
   batch_size: 8
